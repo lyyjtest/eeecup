@@ -8,5 +8,5 @@
 	"ddyear": 2018,
 	"enable": 0,
 	"info": "test",
-	"shutdown": 0 
+	"shutdown": 1 
 }
