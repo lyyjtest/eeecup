@@ -6,7 +6,7 @@
 	"md5": "B8",
 	"updateLog": "v1.0.0正式版",
 	"ddyear": 2018,
-	"enable": 0,
+	"enable": 1,
 	"info": "test",
 	"shutdown": 1 
 }
