@@ -1,0 +1,12 @@
+{
+	"versionCode": 100,
+	"isForceUpdate": 1,
+	"versionName": "1.0.0",
+	"updateUrl": "",
+	"md5": "B8",
+	"updateLog": "v1.0.0正式版",
+	"ddyear": 2018,
+	"enable": 0,
+	"info": "test",
+	"shutdown": 0 
+}
